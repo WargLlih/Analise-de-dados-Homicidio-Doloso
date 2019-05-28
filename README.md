@@ -1,2 +1,5 @@
-# An-lise-de-dados-de-HOMIC-DIO-DOLOSO
-## Equipe:Daniel de Souza Lima Jr ("Dewaldman"),
+# Analise-de-dados-Homicidio-Doloso
+## Equipe:
+### Guilherme Campino Grunewald, github.com/GCGrunewald 
+### Daniel de Souza Lima Jr, github.com/Dewaldman
+
