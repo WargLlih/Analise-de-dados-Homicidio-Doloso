@@ -17,3 +17,5 @@ O projeto analisa os dados sobre homicídios dolosos ocorridos no vale do paraí
 > idade das vítimas
 
 > mapa de calor, usando Folium Python Heat Map
+
+> crescimento do íníce no primeiro trimestre de 2019
